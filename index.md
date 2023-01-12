@@ -8,54 +8,50 @@
 layout: page
 ---
 
-![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+![Alberta Longhini](assets/images/albi_photo.png)
 
-I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
-My research explores intelligent physical human-robot interaction, with applications in healthcare robotics.
+I'm a second-year doctoral student at the Division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) under the supervision of [Professor Danica Kragic](https://www.csc.kth.se/~danik/).
 
-Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
+My research lies at the intersection between robotics and machine learning. In particular, I focus on robotic perception and manipulation of deformable objects. Currently, I'm interested in learning world models from robotic interaction and sensing, which requires to encode complex physics behaviors into latent represenations.
 
 ---
 
-### News
+### Reviews
 
-  * Chair at IROS 2022 session on Art and Entertainment and Manipulation
-  * Co-chair at ICRA 2022 session on Physical HRI
-  * Area Chair for CoRL 2022
-  * Associate Editor for RO-MAN 2022 
-  * Organizing IROS 2022 workshop [Proximity Perception - Towards Next-Generation Multi-Modal Sensing in Soft Structures](https://proxelsandtaxels.org/en/)
-  * Invited talk at RSS 2022 workshop on [Close Proximity Human-Robot Collaboration](https://sites.google.com/colorado.edu/rss-22-close-proximity-hrc/)
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
+  * Reviewer for IROS 2022
+  * Reviewer for ICRA 2022-2023 
+  * Reviewer for ICRA 2022 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
 
 ---
 
 ### Contact
+
+{% comment %}
 **Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
 Please check my calendar to see if I am available prior to suggesting a meeting time.
+{% endcomment %}
 
-**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
+**Office**: Teknikringen 14, Room 712.
 
 **Address**  
-Carnegie Mellon University  
-Robotics Institute  
-5000 Forbes Ave  
-Pittsburgh, PA 15213 USA
+KTH Royal Institute of Technology  
+Division of Robotics, Perception, and Learning (RPL)  
+School of Electrical Engineering and Computer Science  
+Teknikringen 14, 7th floor, SE-100 44 Stockholm, Sweden  
 
 ---
 
-### Teaching
+### Teaching Assistant
 
-Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
-Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
-Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
-Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
+Fall 2022: [Image Analysis and Computer Vision (DD2423)](https://www.kth.se/social/course/DD2423/)  
+Fall 2022: [Introduction to Robotics (DD2410)](https://www.kth.se/social/course/DD2410/)
 
+
+
+{% comment %}
 ---
-
 ### Extra links
 You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
 
 In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
+{% endcomment %}

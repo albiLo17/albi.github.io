@@ -1,4 +1,4 @@
-title: Zackory Erickson
+title: Alberta Longhini
 author:
   name:
   email:
@@ -49,7 +49,7 @@ minima:
 header_pages:
  - publications.md
  - cv.md
- - bio.md
+ # - bio.md
 
 # Build settings
 theme: minima
