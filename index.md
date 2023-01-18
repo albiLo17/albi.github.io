@@ -31,6 +31,8 @@ My research lies at the intersection between robotics and machine learning. In
 Please check my calendar to see if I am available prior to suggesting a meeting time.
 {% endcomment %}
 
+**Email**: albertal@kth.se
+
 **Office**: Teknikringen 14, Room 712.
 
 **Address**  

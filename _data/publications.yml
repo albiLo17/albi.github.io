@@ -2,13 +2,13 @@
 
 - title: "EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics"
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, David Held, Zackory Erickson, Danica Kragic
-  year: 2022
-  type: Arxiv
-  venue: Arxiv
+  year: 2023
+  type: Conference
+  venue: International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EDONet.png
   id: longhini2022edo
-  projectpage: 
-  code: 
+  projectpage:
+  code:
   bibtex: |
         @article{longhini2022edo,
         title={EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics},
@@ -17,19 +17,19 @@
         year={2022}
         }
   abstract: "We study the problem of learning graph dynamics of deformable objects which generalize to unknown physical properties. In particular, we leverage a latent representation of elastic physical properties of cloth-like deformable objects which we explore through a pulling interaction. We propose EDO-Net (Elastic Deformable Object - Net), a model trained in a self-supervised fashion on a large variety of samples with different elastic properties. EDO-Net jointly learns an adaptation module, responsible for extracting a latent representation of the physical properties of the object, and a forwarddynamics module, which leverages the latent representation to predict future states of cloth-like objects, represented as graphs. We evaluate EDO-Net both in simulation and real world, assessing its capabilities of: 1) generalizing to unknown physical properties of cloth-like deformable objects, 2) transferring the learned representation to new downstream tasks."
-  awards: 
-  video: 
+  awards:
+  video:
   pdf: https://arxiv.org/pdf/2209.08996.pdf
 
 - title: "Elastic Context: Encoding Elasticity for Data-driven Models of Textiles"
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, Alexander Kravberg, Yufei Wang, David Held, Zackory Erickson, Danica Kragic
-  year: 2022
-  type: Arxiv
-  venue:  Arxiv
+  year: 2023
+  type: Conference
+  venue:  International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EC.png
   id: longhini2022elastic
-  projectpage: 
-  code: 
+  projectpage:
+  code:
   bibtex: |
         @article{longhini2022elastic,
         title={Elastic Context: Encoding Elasticity for Data-driven Models of Textiles},
@@ -38,8 +38,8 @@
         year={2022}
         }
   abstract: "Physical interaction with textiles, such as assistive dressing, relies on advanced dextreous capabilities. The underlying complexity in textile behavior when being pulled and stretched, is due to both the yarn material properties and the textile construction technique. Today, there are no commonly adopted and annotated datasets on which the various interaction or property identification methods are assessed. One important property that affects the interaction is material elasticity that results from both the yarn material and construction technique: these two are intertwined and, if not known a-priori, almost impossible to identify through sensing commonly available on robotic platforms. We introduce Elastic Context (EC), a concept that integrates various properties that affect elastic behavior, to enable a more effective physical interaction with textiles. The definition of EC relies on stress/strain curves commonly used in textile engineering, which we reformulated for robotic applications. We employ EC using Graph Neural Network (GNN) to learn generalized elastic behaviors of textiles. Furthermore, we explore the effect the dimension of the EC has on accurate force modeling of non-linear real-world elastic behaviors, highlighting the challenges of current robotic setups to sense textile properties."
-  awards: 
-  video: 
+  awards:
+  video:
   pdf: https://arxiv.org/pdf/2209.05428.pdf
 
 - title: "Perceiving and Handling Textiles: a Robotics Perspective"
@@ -49,16 +49,16 @@
   venue:  Workshop on Representing and Manipulating Deformable Objects
   image: ../assets/images/Perveiving_workshop.png
   id: longhiniperceiving
-  projectpage: 
-  code: 
+  projectpage:
+  code:
   bibtex: |
         @article{longhiniperceiving,
         title={Perceiving and Handling Textiles: a Robotics Perspective},
         author={Longhini, Alberta and Moletta, Marco and Welle, Michael C and Mitsioni, Ioanna and Kragic, Danica}
         }
   abstract: "The ability to perceive and handle textiles is important for many applications in service and industrial robotics. We present and discuss some of the open scientific challenges in this area and how perception, planning and control can contribute to address them."
-  awards: 
-  video: 
+  awards:
+  video:
   pdf: https://deformable-workshop.github.io/icra2021/spotlight/spot_perceiving_and_handling.pdf
 
 - title: "Textile Taxonomy and Classification Using Pulling and Twisting"
@@ -68,8 +68,8 @@
   venue:  International Conference on Intelligent RObots and Systems (IROS)
   image: ../assets/images/taxonomy.png
   id: longhini2021textile
-  projectpage: 
-  code: 
+  projectpage:
+  code:
   bibtex: |
         @inproceedings{longhini2021textile,
         title={Textile taxonomy and classification using pulling and twisting},
@@ -80,8 +80,8 @@
         organization={IEEE}
         }
   abstract: " Identification of textile properties is an important milestone toward advanced robotic manipulation tasks that consider interaction with clothing items such as assisted dressing, laundry folding, automated sewing, textile recycling and reusing. Despite the abundance of work considering this class of deformable objects, many open problems remain. These relate to the choice and modelling of the sensory feedback as well as the control and planning of the interaction and manipulation strategies. Most importantly, there is no structured approach for studying and assessing different approaches that may bridge the gap between the robotics community and textile production industry. To this end, we outline a textile taxonomy considering fiber types and production methods, commonly used in textile industry. We devise datasets according to the taxonomy, and study how robotic actions, such as pulling and twisting of the textile samples, can be used for the classification. We also provide important insights from the perspective of visualization and interpretability of the gathered data."
-  awards: 
-  video: 
+  awards:
+  video:
   pdf: https://arxiv.org/pdf/2103.09555.pdf
 
 - title: "Learning the tuned liquid damper dynamics by means of a robust EKF"
@@ -91,8 +91,8 @@
   venue: American Control Conference (ACC)
   image: ../assets/images/TLD.png
   id: longhini2021learning
-  projectpage: 
-  code: 
+  projectpage:
+  code:
   bibtex: |
         @inproceedings{longhini2021learning,
         title={Learning the tuned liquid damper dynamics by means of a robust EKF},
@@ -103,6 +103,6 @@
         organization={IEEE}
         }
   abstract: "The tuned liquid dampers (TLD) technology is a feasible and cost-effective seismic design. In order to improve its efficiency it is fundamental to find accurate models describing their dynamic. A TLD system can be modeled through the Housner model and its parameters can be estimated by solving a nonlinear state estimation problem. We propose a robust extended Kalman filter which alleviates the model discretization and the fact that the noise process is not known. We test the effectiveness of the proposed approach by using some experimental data corresponding to two classical seismic waves, namely the El Centro wave and the Hachinohe wave."
-  awards: 
-  video: 
+  awards:
+  video:
   pdf: https://arxiv.org/pdf/2103.03520.pdf
