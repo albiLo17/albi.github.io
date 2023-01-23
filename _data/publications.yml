@@ -4,7 +4,7 @@
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, David Held, Zackory Erickson, Danica Kragic
   year: 2023
   type: Conference
-  venue: International Conference on Robotics and Automation (ICRA)
+  venue: (To appear in) International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EDONet.png
   id: longhini2022edo
   projectpage:
@@ -12,7 +12,7 @@
   bibtex: |
         @article{longhini2022edo,
         title={EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics},
-        author={Longhini, Alberta and Moletta, Marco and Reichlin, Alfredo and Welle, Michael C and Held, David and Erickson, Zackory and Kragic, Danica},
+        author={Longhini*, Alberta and Moletta*, Marco and Reichlin, Alfredo and Welle, Michael C and Held, David and Erickson, Zackory and Kragic, Danica},
         journal={arXiv preprint arXiv:2209.08996},
         year={2022}
         }
@@ -25,7 +25,7 @@
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, Alexander Kravberg, Yufei Wang, David Held, Zackory Erickson, Danica Kragic
   year: 2023
   type: Conference
-  venue:  International Conference on Robotics and Automation (ICRA)
+  venue:  (To appear in) International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EC.png
   id: longhini2022elastic
   projectpage:
@@ -41,6 +41,41 @@
   awards:
   video:
   pdf: https://arxiv.org/pdf/2209.05428.pdf
+
+- title: "DLO@Scale - A Large-Scale Meta Dataset for Learning Non-Rigid Object Pushing Dynamics"
+  authors: Robert Gieselmann, Alberta Longhini, Alfredo Reichlin, Danica Kragic, Florian T. Pokorny
+  year: 2021
+  type: Workshop
+  venue:  (Workshop on Physical Reasoning and Inductive Biases for the Real World, NeurIPS
+  image: ../assets/images/DLO.gif
+  id: longhini2022elastic
+  projectpage:
+  code:
+  bibtex: |
+        @article{gieselmann2021DLO,
+        title={DLO@Scale - A Large-Scale Meta Dataset for Learning Non-Rigid Object Pushing Dynamics},
+        author={ Robert Gieselmann, Alberta Longhini, Alfredo Reichlin, Danica Kragic, Florian T. Pokorny},
+        journal={Workshop on Physical Reasoning and Inductive Biases for the Real World, NeurIPS},
+        year={2021}
+        }
+  abstract: "The ability to quickly understand our physical environment and make predictions
+          about interacting objects is fundamental to us humans. To equip artificial agents
+          with similar reasoning capabilities, machine learning can be used to approximate
+          the underlying state dynamics of a system. In this regard, deep learning has gained
+          much popularity but is relying on the availability of large-enough datasets. In this
+          work, we present DLO@Scale, a new dataset for studying future state prediction
+          in the context of multi-body deformable linear object pushing. It contains a
+          large collection of 100 million simulated interactions enabling thorough statistical
+          analysis and algorithmic benchmarks. Our data is generated using a high-fidelity
+          physics engine which simulates complex mechanical phenomena such as elasticity,
+          plastic deformation and friction. An important aspect is the large variation of the
+          physical parameters making it suitable for testing meta learning algorithms. We
+          describe DLO@Scale and present a first empirical evaluation using neural network
+          baselines. More information and videos can be found at https://sites.google.
+          com/view/dloscale."
+  awards:
+  video:
+  pdf: https://physical-reasoning.github.io/assets/pdf/papers/10.pdf
 
 - title: "Perceiving and Handling Textiles: a Robotics Perspective"
   authors: Alberta Longhini, Marco Moletta, Michael C Welle, Ioanna Mitsioni, Danica Kragic
