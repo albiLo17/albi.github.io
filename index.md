@@ -10,17 +10,25 @@ layout: page
 
 ![Alberta Longhini](assets/images/albi_photo.png)
 
-I'm a second-year doctoral student at the Division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) under the supervision of [Professor Danica Kragic](https://www.csc.kth.se/~danik/).
+I'm a fourth-year doctoral student at the Division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) under the supervision of [Professor Danica Kragic](https://www.csc.kth.se/~danik/).
 
-My research lies at the intersection between robotics and machine learning. In particular, I focus on robotic perception and manipulation of deformable objects. Currently, I'm interested in learning world models from robotic interaction and sensing, which requires to encode complex physics behaviors into latent represenations.
+I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and categorize these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills.
+
+---
+
+### Professional Service
+
+  * PhD Representative - Member of the EECS PhD school council 2023 - Now
+  * Co-Organizer of ICRA 2024 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
+
 
 ---
 
 ### Reviews
 
-  * Reviewer for IROS 2022
-  * Reviewer for ICRA 2022-2023 
-  * Reviewer for ICRA 2022 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
+  * Reviewer for IROS 2022 - Now
+  * Reviewer for ICRA 2022-Now
+  * Reviewer for ICRA 2022-Now workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
 
 ---
 
@@ -50,10 +58,4 @@ Fall 2022: [Introduction to Robotics (DD2410)](https://www.kth.se/social/course/
 
 
 
-{% comment %}
----
-### Extra links
-You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
 
-In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
-{% endcomment %}
