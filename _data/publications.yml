@@ -1,4 +1,5 @@
 # Find and Delete these: ’
+
 - title: "EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics"
   authors: Garcia-Camacho Irene, Longhini Alberta, Welle Michael C, Alenyà Guillem, Kragic Danica, Borràs Júlia
   year: 2024
@@ -14,7 +15,7 @@
           author={Garcia-Camacho, Irene and Longhini, Alberta and Welle, Michael and Aleny{\`a}, Guillem and Kragic, Danica and Borr{\`a}s, J{\'u}lia},
           journal={arXiv preprint arXiv:2403.04608},
           year={2024}
-}
+        }
   abstract: "We study the problem of learning graph dynamics of deformable objects which generalize to unknown physical properties. In particular, we leverage a latent representation of elastic physical properties of cloth-like deformable objects which we explore through a pulling interaction. We propose EDO-Net (Elastic Deformable Object - Net), a model trained in a self-supervised fashion on a large variety of samples with different elastic properties. EDO-Net jointly learns an adaptation module, responsible for extracting a latent representation of the physical properties of the object, and a forwarddynamics module, which leverages the latent representation to predict future states of cloth-like objects, represented as graphs. We evaluate EDO-Net both in simulation and real world, assessing its capabilities of: 1) generalizing to unknown physical properties of cloth-like deformable objects, 2) transferring the learned representation to new downstream tasks."
   awards:
   video:
