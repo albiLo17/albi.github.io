@@ -1,6 +1,6 @@
 # Find and Delete these: ’
 
-- title: "EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics"
+- title: "Standardization of Cloth Objects and its Relevance in Robotic Manipulation"
   authors: Garcia-Camacho Irene, Longhini Alberta, Welle Michael C, Alenyà Guillem, Kragic Danica, Borràs Júlia
   year: 2024
   type: Conference
@@ -16,7 +16,7 @@
           journal={arXiv preprint arXiv:2403.04608},
           year={2024}
         }
-  abstract: "We study the problem of learning graph dynamics of deformable objects which generalize to unknown physical properties. In particular, we leverage a latent representation of elastic physical properties of cloth-like deformable objects which we explore through a pulling interaction. We propose EDO-Net (Elastic Deformable Object - Net), a model trained in a self-supervised fashion on a large variety of samples with different elastic properties. EDO-Net jointly learns an adaptation module, responsible for extracting a latent representation of the physical properties of the object, and a forwarddynamics module, which leverages the latent representation to predict future states of cloth-like objects, represented as graphs. We evaluate EDO-Net both in simulation and real world, assessing its capabilities of: 1) generalizing to unknown physical properties of cloth-like deformable objects, 2) transferring the learned representation to new downstream tasks."
+  abstract: "The field of robotics faces inherent challenges in manipulating deformable objects, particularly in understanding and standardising fabric properties like elasticity, stiffness, and friction. While the significance of these properties is evident in the realm of cloth manipulation, accurately categorising and comprehending them in real-world applications remains elusive. This study sets out to address two primary objectives: (1) to provide a framework suitable for robotics applications to characterise cloth objects,, and (2) to study how these properties influence robotic manipulation tasks. Our preliminary results validate the framework's ability to characterise cloth properties and compare cloth sets, and reveal the influence that different properties have on the outcome of five manipulation primitives. We believe that, in general, results on the manipulation of clothes should be reported along with a better description of the garments used in the evaluation. This paper proposes a set of these measures."
   awards:
   video:
   pdf: https://arxiv.org/pdf/2209.08996.pdf
