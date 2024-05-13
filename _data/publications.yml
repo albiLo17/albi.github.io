@@ -4,7 +4,7 @@
   authors: Garcia-Camacho Irene, Longhini Alberta, Welle Michael C, Alenyà Guillem, Kragic Danica, Borràs Júlia
   year: 2024
   type: Conference
-  venue: (To appear in) International Conference on Robotics and Automation (ICRA)
+  venue: International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/radar_chart2.png
   id: garcia2024standardization
   projectpage:
@@ -25,7 +25,7 @@
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, David Held, Zackory Erickson, Danica Kragic
   year: 2023
   type: Conference
-  venue: (To appear in) International Conference on Robotics and Automation (ICRA)
+  venue: International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EDONet.png
   id: longhini2022edo
   projectpage:
@@ -46,7 +46,7 @@
   authors: Alberta Longhini, Marco Moletta, Alfredo Reichlin, Michael C Welle, Alexander Kravberg, Yufei Wang, David Held, Zackory Erickson, Danica Kragic
   year: 2023
   type: Conference
-  venue:  (To appear in) International Conference on Robotics and Automation (ICRA)
+  venue:  International Conference on Robotics and Automation (ICRA)
   image: ../assets/images/EC.png
   id: longhini2022elastic
   projectpage:
