@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://albilo17.github.io/al-folio/sitemap.xml
