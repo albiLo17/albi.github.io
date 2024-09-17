@@ -23,8 +23,9 @@ social: true # includes social icons at the bottom of the page
   <!-- , in the Division of <a href="https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439" target="_blank">Robotics, Perception and Learning (RPL)</a> -->
 
 
+<!-- <p style="text-align: justify;"> -->
 My research focuses on developing algorithms for intelligent agents capable of adaptive manipulation in human environments. I explore object-centric world models for inference, planning, and reasoning, alongside key areas such as object characterization, multimodal interactive perception, and learning of geometric and semantic representations. Recently, I have been curious about how to improve the physical and semantic reasoning of foundation models for deformable objects, with the aim of equipping agents to handle complex, variable tasks in real-world scenarios.
-
+<!-- </p> -->
  <!-- I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills. -->
 
 ---
