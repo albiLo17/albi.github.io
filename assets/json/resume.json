@@ -31,9 +31,9 @@
       "position": "Visiting Researcher",
       "url": "https://www.cmu.edu",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2023",
       "summary": "Collaborated with researchers in deformable object manipulation.",
-      "highlights": []
+      "highlights": ["Supervisor: Zackory Erickson"]
     },
     {
       "name": "KTH Royal Institute of Technology",
@@ -41,8 +41,8 @@
       "url": "https://www.kth.se",
       "startDate": "2021",
       "endDate": "Present",
-      "summary": "Assisted in teaching Introduction to Robotics and Image Analysis courses.",
-      "highlights": []
+      "summary": "",
+      "highlights": ["Introduction to Robotics (2021-2024)", "Image Analysis and Computer Vision (2021-2023)"]
     }
   ],
   "education": [
@@ -82,14 +82,14 @@
       "name": "Textile taxonomy and classification using pulling and twisting",
       "publisher": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
       "releaseDate": "2021",
-      "url": "https://arxiv.org/pdf/2103.09555.pdf",
+      "url": "https://arxiv.org/pdf/2103.09555",
       "summary": ""
     },
     {
       "name": "EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics",
       "publisher": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
       "releaseDate": "2023",
-      "url": "https://arxiv.org/pdf/2209.05428.pdf",
+      "url": "https://arxiv.org/pdf/2209.08996",
       "summary": ""
     },
     {
@@ -97,6 +97,20 @@
       "publisher": "IEEE Robotics and Automation Letters",
       "releaseDate": "2024",
       "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Cloth-Splatting: 3D State Estimation from RGB Supervision for Deformable Objects",
+      "publisher": "8th Annual Conference on Robot Learning",
+      "releaseDate": "2024",
+      "url": "https://openreview.net/pdf?id=WmWbswjTsi",
+      "summary": ""
+    },
+    {
+      "name": "Unfolding the Literature: A Review of Robotic Cloth Manipulation",
+      "publisher": "Annual Review of Control, Robotics, and Autonomous Systems",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2407.01361",
       "summary": ""
     }
   ],
