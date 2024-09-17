@@ -19,10 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-  I'm a fourth-year doctoral student at the Division of <a href="https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439" target="_blank">Robotics, Perception and Learning (RPL)</a> under the supervision of <a href="https://www.csc.kth.se/~danik/" target="_blank">Professor Danica Kragic.
+  I'm a fourth-year doctoral student at <a href="https://www.kth.se/en" target="_blank">KTH Royal Institute of Technology</a>  under the supervision of <a href="https://www.csc.kth.se/~danik/" target="_blank">Professor Danica Kragic.
+  <!-- , in the Division of <a href="https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439" target="_blank">Robotics, Perception and Learning (RPL)</a> -->
 
 
- I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills.
+My research focuses on developing algorithms for intelligent agents capable of adaptive manipulation in human environments. I explore object-centric world models for inference, planning, and reasoning, alongside key areas such as object characterization, multimodal interactinve perception, and learning of geometric and semantic representations. Recently, I have been curious about how to improve the physical and semantic reasoning of foundation models for deformable objects, with the aim of equipping agents to handle complex, variable tasks in real-world scenarios.
+
+ <!-- I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills. -->
 
 ---
 
@@ -58,12 +61,12 @@ Please check my calendar to see if I am available prior to suggesting a meeting 
 
 **Email**: albertal@kth.se
 
-**Office**: Teknikringen 14, Room 712.
+**Office**: Lindstedtsvägen 24, Room 305.
 
 **Address**  
 KTH Royal Institute of Technology  
 Division of Robotics, Perception, and Learning (RPL)  
 School of Electrical Engineering and Computer Science  
-Teknikringen 14, 7th floor, SE-100 44 Stockholm, Sweden
+Lindstedtsvägen 24, 3rd floor, SE-100 44 Stockholm, Sweden
 
 ---

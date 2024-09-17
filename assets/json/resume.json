@@ -6,7 +6,7 @@
     "email": "albertal@kth.se",
     "phone": "",
     "url": "https://albilo17.github.io/",
-    "summary": "A Ph.D. candidate focusing on adaptive manipulation of Cloth-like Deformable Objects (CDO) at the Division of Robotics, Perception, and Learning (RPL), KTH Royal Institute of Technology, with a research interest in combining robotics and machine learning for better perception and manipulation in unstructured environments.",
+    "summary": "A Ph.D. candidate focusing on adaptive manipulation of deformable objects at the Division of Robotics, Perception, and Learning (RPL), KTH Royal Institute of Technology, with a research interest in combining robotics and machine learning for better perception and manipulation in unstructured environments.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -79,10 +79,24 @@
   ],
   "publications": [
     {
+      "name": "Learning the tuned liquid damper dynamics by means of a robust EKF",
+      "publisher": "2021 American Control Conference (ACC)",
+      "releaseDate": "2021",
+      "url": "https://arxiv.org/pdf/2103.03520",
+      "summary": ""
+    },
+    {
       "name": "Textile taxonomy and classification using pulling and twisting",
       "publisher": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
       "releaseDate": "2021",
       "url": "https://arxiv.org/pdf/2103.09555",
+      "summary": ""
+    },
+    {
+      "name": "Elastic Context: Encoding Elasticity for Data-driven Models of Textiles Elastic Context: Encoding Elasticity for Data-driven Models of Textiles",
+      "publisher": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/pdf/2209.05428",
       "summary": ""
     },
     {
@@ -93,17 +107,10 @@
       "summary": ""
     },
     {
-      "name": "AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation",
-      "publisher": "IEEE Robotics and Automation Letters",
+      "name": "Standardization of cloth objects and its relevance in robotic manipulation",
+      "publisher": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
       "releaseDate": "2024",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Cloth-Splatting: 3D State Estimation from RGB Supervision for Deformable Objects",
-      "publisher": "8th Annual Conference on Robot Learning",
-      "releaseDate": "2024",
-      "url": "https://openreview.net/pdf?id=WmWbswjTsi",
+      "url": "https://arxiv.org/pdf/2403.04608",
       "summary": ""
     },
     {
@@ -111,6 +118,20 @@
       "publisher": "Annual Review of Control, Robotics, and Autonomous Systems",
       "releaseDate": "2024",
       "url": "https://arxiv.org/pdf/2407.01361",
+      "summary": ""
+    },
+    {
+      "name": "AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2403.06210",
+      "summary": ""
+    },
+    {
+      "name": "Cloth-Splatting: 3D State Estimation from RGB Supervision for Deformable Objects",
+      "publisher": "8th Annual Conference on Robot Learning",
+      "releaseDate": "2024",
+      "url": "https://openreview.net/pdf?id=WmWbswjTsi",
       "summary": ""
     }
   ],
