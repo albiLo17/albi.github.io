@@ -2,6 +2,48 @@
 ---
 
 
+@inproceedings{longhinicloth,
+  title={Cloth-Splatting:3D Cloth State Estimation from RGB Supervision},
+  author={Longhini, Alberta and B{\"u}sching, Marcel and Duisterhof, Bardienus Pieter and Lundell, Jens and Ichnowski, Jeffrey and Bj{\"o}rkman, M{\aa}rten and Kragic, Danica},
+  year={2024},
+  booktitle={8th Annual Conference on Robot Learning (CoRL)},
+  url={https://openreview.net/pdf?id=WmWbswjTsi},
+  pdf={ClothSplatting.pdf},
+  abstract={We introduce Cloth-Splatting, a method for estimating 3D states of cloth from RGB images through a prediction-update framework. Cloth-Splatting leverages an action-conditioned dynamics model for predicting future states and uses 3D Gaussian Splatting to update the predicted states. Our key insight is that coupling a 3D mesh-based representation with Gaussian Splatting allows us to define a differentiable map between the cloth’s state space and the image space. This enables the use of gradient-based optimization techniques to refine inaccurate state estimates using only RGB supervision. Our experiments demonstrate that Cloth-Splatting not only improves state estimation accuracy over current baselines but also reduces convergence time by ∼ 85 %. },
+  website={https://kth-rpl.github.io/cloth-splatting/},
+  preview={ClothSplatting.gif},
+  selected={true},
+}
+
+
+@article{longhini2024unfolding,
+  title={Unfolding the Literature: A Review of Robotic Cloth Manipulation},
+  author={Longhini, Alberta and Wang, Yufei and Garcia-Camacho, Irene and Blanco-Mulero, David and Moletta, Marco and Welle, Michael and Aleny{\`a}, Guillem and Yin, Hang and Erickson, Zackory and Held, David and others},
+  journal={Annual Review of Control, Robotics, and Autonomous Systems},
+  year={2024},
+  url={https://arxiv.org/pdf/2407.01361},
+  pdf={Review.pdf},
+  abstract={The realm of textiles spans clothing, households, healthcare, sports, and industrial applications. The deformable nature of these objects poses unique challenges that prior work on rigid objects cannot fully address. The increasing interest within the community in textile perception and manipulation has led to new methods that aim to address challenges in modeling, perception, and control, resulting in significant progress. However, this progress is often tailored to one specific textile or a subcategory of these textiles. To understand what restricts these methods and hinders current approaches from generalizing to a broader range of real-world textiles, this review provides an overview of the field, focusing specifically on how and to what extent textile variations are addressed in modeling, perception, benchmarking, and manipulation of textiles. We finally conclude by identifying key open problems and outlining grand challenges that will drive future advancements in the field.},
+  preview={ClothSet.png},
+  selected={true},
+
+}
+
+@article{longhini2024adafold,
+  title={AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation},
+  author={Longhini, Alberta and Welle, Michael C and Erickson, Zackory and Kragic, Danica},
+  journal={Robotics and Automation Letters (RA-L)},
+  year={2024},
+  url={https://arxiv.org/pdf/2403.06210},
+  pdf={AdaFold.pdf},
+  abstract={We present AdaFold, a model-based feedback-loop framework for optimizing folding trajectories. AdaFold extracts a particle-based representation of cloth from RGB-D images and feeds back the representation to a model predictive control to replan folding trajectory at every time-step. A key component of AdaFold that enables feedback-loop manipulation is the use of semantic descriptors extracted from geometric features. These descriptors enhance the particle representation of the cloth to distinguish between ambiguous point clouds of differently folded cloths. Our experiments demonstrate AdaFold’s ability to adapt folding trajectories of cloths with varying physical properties and generalize from simulated training to realworld execution.},
+  website={https://adafold.github.io/},
+  preview={AdaFold.gif},
+  selected={true},
+
+}
+
+
 
 @inproceedings{longhini2023edo,
   title={Edo-net: Learning elastic properties of deformable objects from graph dynamics},
@@ -14,6 +56,7 @@
   url={https://arxiv.org/pdf/2209.08996},
   pdf={EDONet.pdf},
   preview={EDONet.png},
+  selected={true},
 }
 
 @inproceedings{longhini2021textile,
@@ -27,6 +70,8 @@
   pdf={Taxonomy.pdf},
   abstract={Identification of textile properties is an important milestone toward advanced robotic manipulation tasks that consider interaction with clothing items such as assisted dressing, laundry folding, automated sewing, textile recycling and reusing. Despite the abundance of work considering this class of deformable objects, many open problems remain. These relate to the choice and modelling of the sensory feedback as well as the control and planning of the interaction and manipulation strategies. Most importantly, there is no structured approach for studying and assessing different approaches that may bridge the gap between the robotics community and textile production industry. To this end, we outline a textile taxonomy considering fiber types and production methods, commonly used in textile industry. We devise datasets according to the taxonomy, and study how robotic actions, such as pulling and twisting of the textile samples, can be used for the classification. We also provide important insights from the perspective of visualization and interpretability of the gathered data.},
   preview={taxonomy.png},
+  selected={true},
+  
 }
 
 
@@ -57,43 +102,6 @@
   preview={EC.png},
 }
 
-
-
-@inproceedings{longhinicloth,
-  title={Cloth-Splatting:3D Cloth State Estimation from RGB Supervision},
-  author={Longhini, Alberta and B{\"u}sching, Marcel and Duisterhof, Bardienus Pieter and Lundell, Jens and Ichnowski, Jeffrey and Bj{\"o}rkman, M{\aa}rten and Kragic, Danica},
-  year={2024},
-  booktitle={8th Annual Conference on Robot Learning (CoRL)},
-  url={https://openreview.net/pdf?id=WmWbswjTsi},
-  pdf={ClothSplatting.pdf},
-  abstract={We introduce Cloth-Splatting, a method for estimating 3D states of cloth from RGB images through a prediction-update framework. Cloth-Splatting leverages an action-conditioned dynamics model for predicting future states and uses 3D Gaussian Splatting to update the predicted states. Our key insight is that coupling a 3D mesh-based representation with Gaussian Splatting allows us to define a differentiable map between the cloth’s state space and the image space. This enables the use of gradient-based optimization techniques to refine inaccurate state estimates using only RGB supervision. Our experiments demonstrate that Cloth-Splatting not only improves state estimation accuracy over current baselines but also reduces convergence time by ∼ 85 %. },
-  website={https://kth-rpl.github.io/cloth-splatting/},
-  preview={ClothSplatting.gif},
-}
-
-
-@article{longhini2024unfolding,
-  title={Unfolding the Literature: A Review of Robotic Cloth Manipulation},
-  author={Longhini, Alberta and Wang, Yufei and Garcia-Camacho, Irene and Blanco-Mulero, David and Moletta, Marco and Welle, Michael and Aleny{\`a}, Guillem and Yin, Hang and Erickson, Zackory and Held, David and others},
-  journal={Annual Review of Control, Robotics, and Autonomous Systems},
-  year={2024},
-  url={https://arxiv.org/pdf/2407.01361},
-  pdf={Review.pdf},
-  abstract={The realm of textiles spans clothing, households, healthcare, sports, and industrial applications. The deformable nature of these objects poses unique challenges that prior work on rigid objects cannot fully address. The increasing interest within the community in textile perception and manipulation has led to new methods that aim to address challenges in modeling, perception, and control, resulting in significant progress. However, this progress is often tailored to one specific textile or a subcategory of these textiles. To understand what restricts these methods and hinders current approaches from generalizing to a broader range of real-world textiles, this review provides an overview of the field, focusing specifically on how and to what extent textile variations are addressed in modeling, perception, benchmarking, and manipulation of textiles. We finally conclude by identifying key open problems and outlining grand challenges that will drive future advancements in the field.},
-  preview={ClothSet.png},
-}
-
-@article{longhini2024adafold,
-  title={AdaFold: Adapting Folding Trajectories of Cloths via Feedback-loop Manipulation},
-  author={Longhini, Alberta and Welle, Michael C and Erickson, Zackory and Kragic, Danica},
-  journal={Robotics and Automation Letters (RA-L)},
-  year={2024},
-  url={https://arxiv.org/pdf/2403.06210},
-  pdf={AdaFold.pdf},
-  abstract={We present AdaFold, a model-based feedback-loop framework for optimizing folding trajectories. AdaFold extracts a particle-based representation of cloth from RGB-D images and feeds back the representation to a model predictive control to replan folding trajectory at every time-step. A key component of AdaFold that enables feedback-loop manipulation is the use of semantic descriptors extracted from geometric features. These descriptors enhance the particle representation of the cloth to distinguish between ambiguous point clouds of differently folded cloths. Our experiments demonstrate AdaFold’s ability to adapt folding trajectories of cloths with varying physical properties and generalize from simulated training to realworld execution.},
-  website={https://adafold.github.io/},
-  preview={AdaFold.gif},
-}
 
 
 @article{garcia2024standardization,

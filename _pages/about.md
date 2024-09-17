@@ -15,7 +15,7 @@ profile:
   #   <p>SE-100 44 Stockholm, Sweden </p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -31,8 +31,8 @@ My research focuses on developing algorithms for intelligent agents capable of a
 
 ### Professional Service
 
-- PhD Representative - Member of the EECS PhD school council 2023 - Now
-- Co-Organizer of ICRA 2024 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
+- **PhD Representative** - Member of the EECS PhD school council 2023 - Now
+- **Co-Organizer of ICRA 2024 workshop** on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
 
 ---
 
@@ -43,12 +43,10 @@ My research focuses on developing algorithms for intelligent agents capable of a
 
 ---
 
-### Reviews
+### Master Thesis
 
-- Reviewer for CoRL 2024 - Now
-- Reviewer for RA-L 2023 - Now
-- Reviewer for IROS 2022 - Now
-- Reviewer for ICRA 2022-Now
+- Noel Johansson - *Benchmarking Sentence-Transformers for Duplicate Bug Detection on Novel Dataset* - 2024, M.Sc. in Computer Science, KTH Royal Institute of Technology
+- Mark Bergrahm - *Explanation Methods on a Partially Trained Model*- 2024, M.Sc. in Computer Science, KTH Royal Institute of Technology
 
 ---
 
